@@ -1,0 +1,29 @@
+
+- do something about property files class, this could do with being seperate
+  from logging since we're using it in the games as well...
+
+- replace std::map with a hashmap implementation where it makes sense.
+
+- add some proper regression tests
+
+
+- add some initial timing tests to compare the straight message and stream
+logging methods.
+
+
+- think about how to have arbitrary logging levels while retaining the MACRO
+facility
+
+
+- think about how to provide MACRO logging using templates, perhaps this
+would allow us to use arbitrary logging levels as long as they all evaluated
+to an integral value
+
+
+- add more doxygen documentation
+
+
+- create a fast and flexible log format class
+
+
+- make logging optionally thread-safe

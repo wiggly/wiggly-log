@@ -1,0 +1,23 @@
+
+Wiggly-Log
+
+See INSTALL for instructions on how to build and install this package.
+
+See COPYING for licensing information.
+
+There are doxygen docs included in the source that can be built if you have
+doxygen laying about somewhere, you may also be able to find them pre-built
+or online where you found this source.
+
+to build the docs do
+
+bash$ doxygen Doxyfile
+
+There are a few test programs included as well that you can use to see how
+the classes are used.
+
+If you do use this, find it useful, find it awful, have a request or have
+other feedback get in touch with me at wiggly@wiggly.org
+
+This package includes/uses an autoconf macro by Steven G. Johnson from the
+Autoconf Macro Archive at http://autoconf-archive.cryp.to/

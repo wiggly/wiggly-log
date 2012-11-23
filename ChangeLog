@@ -1,0 +1,51 @@
+
+0.0.5 - 2009-11-21
+
+Added test function with C linkage that can be used by autoconf to check for
+library existence.
+
+Added regenauto.sh to regerate libtool/automake/autoconf files.
+
+Fixed simple log format to include cstring for memset function - gcc header
+streamlining broke this.
+
+Fixed Makefile.am to include required files in dist target.
+
+
+0.0.4 - 2007-06-11
+
+XXX - Added Categories to logger, automatically cleaned up on exit
+
+XXX - Ensured logs are flushed on each write
+
+0.0.3 - 2007-01-16
+
+Added initial multithreading support.
+
+
+0.0.2 - 2007-01-13
+
+Added this log.
+
+Fixed memory leak in time formatting code.
+
+Modified logger to return null streams if the logging level indicates the
+message is not to be logged.
+
+Moved examples into their own directory, and added a few more.
+
+
+0.0.1 - 2007-01-10
+
+Added log format class.
+
+Added simple XML format class.
+
+Added simple printf-like format class.
+
+Improved doxygen docs.
+
+
+0.0.0-alpha - 2006-05-22
+
+Initial release.

@@ -1,0 +1,10 @@
+
+This package uses GNU automake and provides a configure script so you should
+be able to do the following:
+
+bash$ ./configure
+bash$ make
+bash$ make install
+
+If any of this doesn't work for you then get in touch, I have only built
+this on two platforms currently.

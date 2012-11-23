@@ -1,0 +1,6 @@
+#ifndef WIGGLY_LOG_DETAIL_HPP
+#define WIGGLY_LOG_DETAIL_HPP
+
+#define NDEBUG
+
+#endif // WIGGLY_LOG_DETAIL_HPP
