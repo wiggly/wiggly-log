@@ -5,6 +5,8 @@ See INSTALL for instructions on how to build and install this package.
 
 See COPYING for licensing information.
 
+See http://wiggly.org/projects/wiggly-log.html for more information.
+
 There are doxygen docs included in the source that can be built if you have
 doxygen laying about somewhere, you may also be able to find them pre-built
 or online where you found this source.
